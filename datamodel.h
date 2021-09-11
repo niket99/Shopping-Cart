@@ -28,7 +28,7 @@ public:
 };
 
 class Item{
-    Product product; // not reassignable therefore, constructor using initialization list.
+    Product product; 
     int quantity;
 public:
     Item(){
